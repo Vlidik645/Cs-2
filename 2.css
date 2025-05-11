@@ -1,0 +1,56 @@
+header{
+background-color: white;
+}
+
+.logo {
+display:flex;
+}
+
+.logo img {
+    width: 72px;
+    height: 68px;
+}
+.button{
+display:flex;
+justify-content:center;
+}
+
+
+body h1{
+display:flex;
+justify-content:center;
+color: white;
+}
+
+body p{
+display:flex;
+justify-content:center;
+}
+
+ body img{
+display:flex;
+justify-content:center;
+width: 491px;
+height: 234px;
+}
+
+
+body{
+background-color: #7B7B7B;
+}
+.Content{
+background-color: white;
+}
+.more{
+background-color: #7B7B7B;
+}
+h3{
+color: white;
+display:flex;
+justify-content:center;
+}
+footer{
+background-color: white;
+display:flex;
+justify-content: center;
+}
